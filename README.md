@@ -46,6 +46,8 @@ Como ser um pesquisador:
 	
 	
 	
+Comandos do Google para melhorar a pesquisa: https://youtu.be/bbzCruHS5x8
+	
 Resposta de Mateus:
 
 Fala, Irlan! Tudo bem?
