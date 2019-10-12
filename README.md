@@ -1,49 +1,45 @@
 # how-to-be-a-researcher
 
 Como ser um pesquisador: 
+		
+O que é pesquisar e fazer experimentos ?
 	
+Quais o métodos para validar uma pesquisa ?
 	
-	O que é pesquisar e fazer experimentos ?
+Quais os tipos de pesquisa ?
 	
-	Quais o métodos para validar uma pesquisa ?
+Como ser um pesquisador, tem curso pra isso ?
 	
-	Quais os tipos de pesquisa ?
-	
-	*Como ser um pesquisador, tem curso pra isso ?
-	
-	Como fazer pesquisas (Google, formas de pesquisar, sites confiavéis) ?
-	
-	Métodologias de pesquisas ?
-	
-	How to be a researcher ? (Pesquisar no google) ?
-	
-		https://www.jobs.ac.uk/careers-advice/working-in-higher-education/1203/5-skills-you-need-to-become-a-researcher
-		
-		https://work.chron.com/become-professional-researcher-17760.html
-		
-		https://www.reed.co.uk/career-advice/how-to-become-a-researcher/
-		
-		https://www.researchgate.net/post/How_to_be_a_good_researcher3
-		
-		https://www.princetonreview.com/careers/136/researcher
-		
-		http://math.mit.edu/conferences/wim/conference/career_building.pdf
-		
-		https://www.quora.com/Can-anyone-become-a-researcher
-		
-		https://www.amanet.org/training/articles/the-fastest-way-to-become-an-expert-on-anything.aspx
-		
-		http://time.com/4461455/how-to-become-expert-at-anything/
-		
-		https://www.itworld.com/article/2749753/careers/career-planning--so-you-want-to-be-a-researcher.html
-		
-		https://www.webdesignerdepot.com/2009/12/how-to-find-anything-online-become-an-internet-research-expert/
-		
-		
+Como fazer pesquisas (Google, formas de pesquisar, sites confiavéis) ?
 
-		
-		
+Métodologias de pesquisas ?
 	
+How to be a researcher ? (Pesquisar no google) ?
+	
+https://www.jobs.ac.uk/careers-advice/working-in-higher-education/1203/5-skills-you-need-to-become-a-researcher
+		
+https://work.chron.com/become-professional-researcher-17760.html
+		
+https://www.reed.co.uk/career-advice/how-to-become-a-researcher/
+		
+https://www.researchgate.net/post/How_to_be_a_good_researcher3
+	
+https://www.princetonreview.com/careers/136/researcher
+	
+http://math.mit.edu/conferences/wim/conference/career_building.pdf
+		
+https://www.quora.com/Can-anyone-become-a-researcher
+		
+https://www.amanet.org/training/articles/the-fastest-way-to-become-an-expert-on-anything.aspx
+		
+http://time.com/4461455/how-to-become-expert-at-anything/
+		
+https://www.itworld.com/article/2749753/careers/career-planning--so-you-want-to-be-a-researcher.html
+		
+https://www.webdesignerdepot.com/2009/12/how-to-find-anything-online-become-an-internet-research-expert/
+		
+https://www.youtube.com/watch?v=gsGUqJ9Oyhk
+		
 	
 	
 Comandos do Google para melhorar a pesquisa: https://youtu.be/bbzCruHS5x8
